@@ -1,2 +1,2 @@
-# vanilla_stauros
+# stauros_vanilla
  
